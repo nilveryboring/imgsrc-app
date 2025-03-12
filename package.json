@@ -2,8 +2,8 @@
   "name": "imgsrc-app",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "https://imgsrc.io",
-  "author": "Fady Abdelmalik <support@imgsrc.io>",
+  "homepage": "https://makeform.ai",
+  "author": "Nil Ni <support@makeform.ai>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

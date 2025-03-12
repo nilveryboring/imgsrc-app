@@ -51,7 +51,7 @@ export function MobileNav() {
             className="justify-start px-0"
             asChild
           >
-            <Link href="mailto:support@imgsrc.io" target="_blank">
+            <Link href="mailto:support@nilni.com" target="_blank">
               Support
             </Link>
           </Button>

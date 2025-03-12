@@ -17,21 +17,21 @@ import { MobileNav } from "@/components/nav/mobile-nav"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://imgsrc.io"),
-  title: "imgsrc",
-  description: "Generate beautiful Open Graph images with zero effort.",
+  metadataBase: new URL("https://nilni.com"),
+  title: "Nil Ni",
+  description: "Nil Ni",
   openGraph: {
     title: "imgsrc",
-    description: "Generate beautiful Open Graph images with zero effort.",
+    description: "Nil Ni",
     type: "website",
-    url: "https://imgsrc.io",
-    siteName: "imgsrc",
+    url: "https://nilni.com",
+    siteName: "Nil Ni",
     images: [
       {
-        url: "https://imgsrc.io/og.png",
+        url: "https://nilni.com/og.png",
         width: 1200,
         height: 630,
-        alt: "imgsrc - Generate beautiful Open Graph images with zero effort.",
+        alt: "Nil Ni",
       },
     ],
     locale: "en_US",
@@ -109,7 +109,7 @@ export default async function RootLayout({
             <div className="flex justify-between">
               <div className="flex items-center space-x-2">
                 <div className="font-mono font-semibold">
-                  <Link href="https://imgsrc.io">.imgsrc</Link>
+                  <Link href="https://nilni.com">Nil Ni</Link>
                 </div>
 
                 <div>
